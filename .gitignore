@@ -1,0 +1,2 @@
+#add files which are needed to be ignored when commiting to the server
+.env
